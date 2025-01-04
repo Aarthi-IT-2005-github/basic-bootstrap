@@ -1,0 +1,20 @@
+body{
+    font-size: 22px;
+    border:3px solid black;
+}
+h1,h2{
+    color:green;
+}
+p{
+    color:rgb(67, 121, 121);
+}
+p span{ background-color:grey;
+}
+.gray{
+    color:rgb(184, 20, 99)
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#second{
+    color:rgb(248, 121, 121);
+}
